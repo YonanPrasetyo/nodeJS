@@ -1,0 +1,7 @@
+2025/01/21	17:05:58	fea8982e-503e-4991-ab57-a0bc3e50a12e	/new-page.html	GET
+2025/01/21	17:05:58	f6bbcbb8-e4e5-4f9e-9515-b0782923dcff	/css/style.css	GET
+2025/01/21	17:05:58	53b39d8d-401a-41bb-93cc-b254a07a7379	/img/img1.jpg	GET
+2025/01/21	17:06:07	79244f4e-e99d-4355-bb33-67207f91c63e	/new-page.html	GET
+2025/01/21	17:06:18	450bc94d-7a96-48c8-b7b4-d9bd94b24d01	/new-page.html	GET
+2025/01/21	17:06:18	bdf27020-c240-442e-a710-fb5b0d65dcc0	/css/style.css	GET
+2025/01/21	17:06:18	5d802e02-10d5-46d9-9de2-07a234247488	/img/img1.jpg	GET
