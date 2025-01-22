@@ -1,1 +1,4 @@
-2025/01/21	17:06:07	aee1e5e6-c926-4f4d-9255-dc35130ba01b	TypeError	fsPromises.readFil is not a function
+2025/01/22	22:52:52	49630975-7955-47f0-a849-6acf1a01b37c	Error	Not allowed by CROS
+2025/01/22	22:53:07	49893fae-c020-462f-b5e1-d698c20345a9	Error	Not allowed by CROS
+2025/01/22	22:53:07	426a3675-b7db-473a-a490-e7fd34c30ab8	Error	Not allowed by CROS
+2025/01/22	22:53:08	d5351eef-8c54-439f-97df-ffbf4045abeb	Error	Not allowed by CROS

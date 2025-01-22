@@ -1,7 +1,49 @@
-2025/01/21	17:05:58	fea8982e-503e-4991-ab57-a0bc3e50a12e	/new-page.html	GET
-2025/01/21	17:05:58	f6bbcbb8-e4e5-4f9e-9515-b0782923dcff	/css/style.css	GET
-2025/01/21	17:05:58	53b39d8d-401a-41bb-93cc-b254a07a7379	/img/img1.jpg	GET
-2025/01/21	17:06:07	79244f4e-e99d-4355-bb33-67207f91c63e	/new-page.html	GET
-2025/01/21	17:06:18	450bc94d-7a96-48c8-b7b4-d9bd94b24d01	/new-page.html	GET
-2025/01/21	17:06:18	bdf27020-c240-442e-a710-fb5b0d65dcc0	/css/style.css	GET
-2025/01/21	17:06:18	5d802e02-10d5-46d9-9de2-07a234247488	/img/img1.jpg	GET
+2025/01/22	22:09:33	babe7618-124c-4123-871e-690f2e110ad0	GET	undefined	/new-page.html
+2025/01/22	22:09:33	6b7fdbae-c956-4750-a459-99110afeb48a	GET	undefined	/css/style.css
+2025/01/22	22:09:33	6a0a02a4-398e-4407-9260-09b34b6671fe	GET	undefined	/img/img1.jpg
+2025/01/22	22:09:59	8c69a980-674d-4e1f-8706-5c528f70be26	GET	undefined	/scd
+2025/01/22	22:09:59	38300261-2963-4a3b-87b8-3d6ceaf6f107	GET	undefined	/css/style.css
+2025/01/22	22:13:53	ab085c9c-73e1-4b72-94dc-e02946c1c4da	GET	undefined	/index.html
+2025/01/22	22:13:53	b903e02d-c7cb-4759-9e6d-21cae37720b1	GET	undefined	/css/style.css
+2025/01/22	22:14:02	2492224e-3958-45e7-a6ec-0ddb6e2f3afb	GET	undefined	/index.html
+2025/01/22	22:14:02	4688d89e-ec73-4bb1-8ace-a6ba43263fb1	GET	undefined	/css/style.css
+2025/01/22	22:18:47	f3d97270-6a2d-4ca5-ad46-5c8ce50a21f7	OPTIONS	https://www.google.com	/
+2025/01/22	22:18:47	07a428eb-aab8-4c77-86fb-1560ddeb42bb	GET	https://www.google.com	/
+2025/01/22	22:19:19	ba0a09c0-1576-4e0e-9dd6-11da5835e115	OPTIONS	https://www.google.com	/new-page
+2025/01/22	22:19:19	2e7e5c62-f33c-483f-89ea-462f51826d20	GET	https://www.google.com	/new-page
+2025/01/22	22:22:50	284d7f61-0fc8-4683-9157-251bf7dcbcb2	OPTIONS	https://www.google.com	/new-page
+2025/01/22	22:22:50	d9fda836-e0e0-4493-9d1b-cb981fced012	GET	https://www.google.com	/new-page
+2025/01/22	22:23:51	d816c21e-1001-49af-bf4d-ed3b6dfdada7	OPTIONS	https://www.google.com	/
+2025/01/22	22:23:51	f86e73d6-85f9-46c3-8582-fa23dd5d7d59	GET	https://www.google.com	/
+2025/01/22	22:33:45	e2e0ab7e-5419-4431-b112-4ef646d969ea	OPTIONS	https://www.google.com	/
+2025/01/22	22:33:45	5000ce0d-62c5-4e63-960c-e4449f691cdf	GET	https://www.google.com	/
+2025/01/22	22:34:02	ca558636-9f80-47d4-a962-fb0df6ee20fc	OPTIONS	https://www.google.com	/
+2025/01/22	22:34:02	167da02c-86cc-4cb0-a3bc-0a58f2e28a9f	GET	https://www.google.com	/
+2025/01/22	22:35:46	b664ccc9-a4ba-4302-bbc2-dc525b46571b	OPTIONS	https://www.google.com	/
+2025/01/22	22:35:46	7af3879f-1b14-4f66-8a84-f77c637a5cb4	GET	https://www.google.com	/
+2025/01/22	22:35:48	b17c8bc8-3cbc-45dd-9fdc-5f8f5ca55a26	GET	https://www.google.com	/
+2025/01/22	22:35:51	5b026f26-00da-4b83-ad5d-8706d396668c	OPTIONS	https://www.google.com	/
+2025/01/22	22:35:51	46b4bda7-afdd-49e8-9463-6614dd9903d0	GET	https://www.google.com	/
+2025/01/22	22:36:01	8fe70330-75d9-4ca1-933a-1f98f7fecbd7	OPTIONS	https://www.google.com	/
+2025/01/22	22:36:01	04cf16fd-74fd-4494-9d15-815fa4c396ba	GET	https://www.google.com	/
+2025/01/22	22:36:08	79450d2d-a31f-445c-88f5-d525091added	OPTIONS	https://www.google.com	/
+2025/01/22	22:36:08	4b0e847d-af4c-4030-8794-ae4e35d92d8b	GET	https://www.google.com	/
+2025/01/22	22:39:11	a77afde4-87c9-4ae0-8cb3-5d4fbbea1238	GET	undefined	/index.html
+2025/01/22	22:40:18	235a08d2-6a53-4aa3-94ff-d3f70c8619c9	GET	undefined	/index.html
+2025/01/22	22:40:18	abddc45d-629b-4cbd-913a-cf00cf8b1e6c	GET	undefined	/css/style.css
+2025/01/22	22:51:56	1de70234-d35e-47bf-a83e-1ba1572e7dd6	GET	undefined	/index.htmla
+2025/01/22	22:51:56	b887b2dd-13d0-40dd-af51-dae2e54d0297	GET	undefined	/css/style.css
+2025/01/22	22:52:20	bd7f4ba6-ba18-41f3-ac81-a0b5cf05434c	GET	undefined	/index.html
+2025/01/22	22:52:20	1e70b45d-4c09-490e-a42f-42d08b6e7792	GET	undefined	/css/style.css
+2025/01/22	22:52:52	a74f4028-49fe-46aa-8953-1f5d8be09362	GET	undefined	/index.html
+2025/01/22	22:53:07	23b389b6-c5c6-4283-bb3a-978305d51a7f	GET	undefined	/index.html
+2025/01/22	22:53:07	9bdc0823-5123-49ae-8317-b2f44dc1507a	GET	undefined	/index.html
+2025/01/22	22:53:08	76d7b8ec-62ba-4861-bb8e-7766dd3f04a7	GET	undefined	/index.html
+2025/01/22	22:54:22	ca8ccd18-afd2-437f-a669-e44cdba0662b	GET	undefined	/index.html
+2025/01/22	22:54:22	021247d9-3457-49bb-9eb9-6fe88f88ec84	GET	undefined	/css/style.css
+2025/01/22	22:55:41	d04c1138-7958-4227-ae40-f61effb4aebd	GET	undefined	/index.htmla
+2025/01/22	22:55:41	e8e6bb3b-fc59-4185-9f71-6def228362c1	GET	undefined	/css/style.css
+2025/01/22	22:59:26	f6a13b2c-9ffe-4f1b-b249-a4376af217fe	GET	undefined	/index.htmla
+2025/01/22	22:59:26	f94266a9-a704-4dec-8530-76a61ecebba1	GET	undefined	/css/style.css
+2025/01/22	22:59:34	2324c944-a3d2-4cd7-bcde-b85f5de0a4ae	GET	undefined	/data/data.json
+2025/01/22	22:59:34	c45459c9-283d-488f-811e-ce5147d7a3c9	GET	undefined	/data/css/style.css
