@@ -4,3 +4,5 @@
 2025/01/22	22:53:08	d5351eef-8c54-439f-97df-ffbf4045abeb	Error	Not allowed by CROS
 2025/01/24	18:15:03	1cd400e8-da38-4f22-8823-615105bf9689	ReferenceError	parentInt is not defined
 2025/01/24	18:16:24	3c0a5cdf-eff5-4bc4-9e4a-1758439e4280	SyntaxError	Expected ',' or '}' after property value in JSON at position 40
+2025/01/25	15:40:29	b658a0a9-2c76-488f-9ab5-597b51a13ddb	TypeError	Cannot read properties of undefined (reading 'TOKEN')
+2025/01/25	15:40:53	fa595fcf-7884-4d63-a331-184a92117325	TypeError	Cannot read properties of undefined (reading 'TOKEN')
