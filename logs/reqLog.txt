@@ -269,3 +269,5 @@
 2025/01/27	16:53:56	43677bb7-b29c-4d69-a49e-2542ed4ae7d9	DELETE	undefined	/employees
 2025/01/27	16:53:59	e559b29b-052a-4746-acd6-6884c53e344d	POST	undefined	/auth
 2025/01/27	16:54:08	cc264140-bdf4-4bcc-b97f-957f7e858f1e	DELETE	undefined	/employees
+2025/01/27	23:36:14	43826977-6404-4fa0-a8ce-1cc78669df3d	POST	undefined	/register
+2025/01/27	23:37:01	ff2b359c-daba-45bb-909c-d28f89a5ee85	POST	undefined	/register
