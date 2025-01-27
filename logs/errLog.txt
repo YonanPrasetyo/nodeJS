@@ -6,3 +6,4 @@
 2025/01/24	18:16:24	3c0a5cdf-eff5-4bc4-9e4a-1758439e4280	SyntaxError	Expected ',' or '}' after property value in JSON at position 40
 2025/01/25	15:40:29	b658a0a9-2c76-488f-9ab5-597b51a13ddb	TypeError	Cannot read properties of undefined (reading 'TOKEN')
 2025/01/25	15:40:53	fa595fcf-7884-4d63-a331-184a92117325	TypeError	Cannot read properties of undefined (reading 'TOKEN')
+2025/01/27	16:46:09	a1059501-ff60-46a7-9492-db4f29ed0969	TypeError	authHeader?.startWith is not a function
